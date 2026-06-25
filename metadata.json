@@ -1,0 +1,6 @@
+{
+  "name": "BueaMart",
+  "description": "A fully functional mobile commerce and delivery application for Molyko, Buea, connecting customers, local supermarkets, and delivery riders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
